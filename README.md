@@ -115,7 +115,7 @@ I enjoyed building this dashboard because it let me look beyond sales figures an
 https://www.youtube.com/watch?v=fJ7-7irXah8&t=14s
 # Link to Dataset :
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-# Link to Youtube
+# Link to Digital Clock Tutorial
 https://www.youtube.com/watch?v=Gx3W4o9lPbg
 
 Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
