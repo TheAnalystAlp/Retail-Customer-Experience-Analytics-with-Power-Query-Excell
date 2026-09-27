@@ -1,5 +1,7 @@
+<img width="2400" height="480" alt="Banner" src="https://github.com/user-attachments/assets/89b016a8-a683-44bb-b868-c042adb6a947" />
  
 Retail Sales & Customer Analytics Dashboard-Going Beyond Numbers
+
 1.Overview & Aim
 My aim was to go beyond simply creating charts and KPIs. I wanted to explore how I could create a traditional sales dashboard in Excel environment which could include more of the retail and customer experience, not just the numbers.
 
