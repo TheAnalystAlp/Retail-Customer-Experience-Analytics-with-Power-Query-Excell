@@ -118,8 +118,8 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ##  Link to Digital Clock Tutorial
 https://www.youtube.com/watch?v=Gx3W4o9lPbg
 
-# Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
+#### Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
-# My Website:https://alptheanalyst.wixsite.com/alptuna
+#### My Website:https://alptheanalyst.wixsite.com/alptuna
 
-# My E-Mail:alptuna.professional@gmail.com
+#### My E-Mail:alptuna.professional@gmail.com
