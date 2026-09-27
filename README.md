@@ -66,22 +66,22 @@ ________________________________________
 ## 5.Key Findings from the Project
 The main goal of this project was to show the analytical process, not to force a final business recommendation. Even so, the dashboard highlighted several useful patterns in the data.
 ________________________________________
-#### a. Sales Show Consistent Growth with Clear Seasonal Peaks
+#### a.Sales Show Consistent Growth with Clear Seasonal Peaks
 The data shows year-on-year sales growth across all four years. Monthly sales naturally fluctuate, but there is a general upward trend as each year progresses.
 
 From a retail perspective, this pattern makes sense. Sales tend to build around key promotional and seasonal periods, while events such as Halloween and Christmas are expected to create stronger peaks toward the end of the year.
 
 Seeing these seasonal peaks reflected in the data was a positive sign that the sales pattern followed what we would normally expect in a retail environment.
 ________________________________________
-### b. Technology Leads Sales Across the Four-Year Period
+### b.Technology Leads Sales Across the Four-Year Period
 Technology clearly stood out as the strongest category in the dataset over the span of four years. The dashboard alone does not tell us exactly why it performed better, but it gives me a good starting point for further questions around demand, pricing, promotions, or marketing activity. Maybe the business practices in this product segment could be applied to other segments to drive sales forward.
 ________________________________________
-### c. Customer Experience Highlights Clear Strengths and Areas for Improvement
+### c.Customer Experience Highlights Clear Strengths and Areas for Improvement
 Our combined data from the Customer Database and Dataset shows that customers are appreciating the Product Range and Product Quality/Experience, giving them high scores. However, Store Accessibility and Service Experience scored below the overall average.
 
 Store accessibility is difficult for a business to fix in the short term, as relocation can be a costly endeavour. Service experience, however, could be improved more quickly through better service quality, clearer procedures, improved tools, and other operational improvements.
 ________________________________________
-### d. Loyalty Orders Show Consistent Growth
+### d.Loyalty Orders Show Consistent Growth
 Loyalty orders are growing across all four customer groups, which is a positive sign. Gold customers stand out the most, with the highest number of orders each year, while the other groups also display steady growth over time.
 
 What I’d take from this is that loyalty programs seem to be encouraging repeat purchases and the gold customers are clearly the most engaged group and worth looking at more closely.
