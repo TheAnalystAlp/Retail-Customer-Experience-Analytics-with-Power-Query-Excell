@@ -66,7 +66,7 @@ ________________________________________
 ## 5.Key Findings from the Project
 The main goal of this project was to show the analytical process, not to force a final business recommendation. Even so, the dashboard highlighted several useful patterns in the data.
 ________________________________________
-#### a.Sales Show Consistent Growth with Clear Seasonal Peaks
+### a.Sales Show Consistent Growth with Clear Seasonal Peaks
 The data shows year-on-year sales growth across all four years. Monthly sales naturally fluctuate, but there is a general upward trend as each year progresses.
 
 From a retail perspective, this pattern makes sense. Sales tend to build around key promotional and seasonal periods, while events such as Halloween and Christmas are expected to create stronger peaks toward the end of the year.
