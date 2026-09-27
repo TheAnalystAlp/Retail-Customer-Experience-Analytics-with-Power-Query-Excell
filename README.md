@@ -110,16 +110,16 @@ ________________________________________
 ## 7.Conclusion
 I enjoyed building this dashboard because it let me look beyond sales figures and explore what customers were experiencing too. It also reminded me that a chart can raise useful questions, even when it doesn’t give a clear answer on its own.
 
-## References
-# Link to SideBar Tutorial
+# References
+## Link to SideBar Tutorial
 https://www.youtube.com/watch?v=fJ7-7irXah8&t=14s
-# Link to Dataset :
+##  Link to Dataset :
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-# Link to Digital Clock Tutorial
+##  Link to Digital Clock Tutorial
 https://www.youtube.com/watch?v=Gx3W4o9lPbg
 
-Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
+# Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
-My Website:https://alptheanalyst.wixsite.com/alptuna
+# My Website:https://alptheanalyst.wixsite.com/alptuna
 
-My E-Mail:alptuna.professional@gmail.com
+# My E-Mail:alptuna.professional@gmail.com
